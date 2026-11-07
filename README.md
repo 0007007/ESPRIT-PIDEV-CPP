@@ -98,7 +98,7 @@ ESPRIT — PIDEV C++ project.
 
 | Member | Module |
 |---|---|
-| | Établissements |
-| | Examens |
-| | Centres d'examen |
-| | Enseignants |
+| Hamza Najjar | Établissements |
+| Ranya Ouesleti | Examens |
+| Yomen Souissi | Centres d'examen |
+| Nada Ajmi | Enseignants |
